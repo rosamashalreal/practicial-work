@@ -1,0 +1,79 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    max-width: 100%;
+}
+
+#girl {
+    color: hsl(0, 31%, 61%);
+    margin-top: 100px;
+}
+
+#rose {
+    color: hsl(0, 31%, 61%);
+    width: 60%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input {
+    padding: 12px;
+    border: 1px solid gray;
+    border-radius: 60px;
+    width: 50%;
+}
+
+#flow {
+    border-radius: 60px;
+    /* text-align: center; */
+    padding: 11px;
+    border: none;
+    background-color: hsl(0, 31%, 61%);
+    width: 80px;
+    position: relative;
+    right: 80px;
+    top: 3px;
+}
+
+#gift {
+    color: rgb(233, 129, 129);
+    padding-left: 20px;
+    font-size: 10px;
+    padding-top: 5px;
+    display: none;
+}
+
+.continer {
+    display: flex;
+}
+
+.room {
+    width: 40%;
+}
+
+.dorcas {
+    width: 60%;
+}
+
+.inner {
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.room img {
+    height: 100vh;
+    width: 100%;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+#error {
+    position: relative;
+    right: 200px;
+    top: 6px;
+    visibility: hidden;
+}

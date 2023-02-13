@@ -53,6 +53,7 @@ input {
 
 .dorcas {
     width: 60%;
+    background-image: url('./bg-pattern-desktop.svg');
 }
 
 .inner {
